@@ -1,4 +1,4 @@
-Fyle Task
+## Fyle Task
 
 ## Overview
 
@@ -28,7 +28,7 @@ The website is hosted on GitHub Pages for easy access.
 
 ## Usage
 
-To view the website, visit []() in your web browser.
+To view the website, visit [https://yash-jain-web-developer-mern-developer.github.io/fyleinternship/](https://yash-jain-web-developer-mern-developer.github.io/fyleinternship/) in your web browser.
 
 ## Getting Started
 
@@ -88,4 +88,4 @@ Find the detailed list of requirement features of the task [here](https://fyleun
 
 ## Feedback
 
-We welcome your feedback! If you have any suggestions or find any issues, please open an issue on the [GitHub repository]().
+We welcome your feedback! If you have any suggestions or find any issues, please open an issue on the [GitHub repository](https://github.com/yash-jain-web-developer-mern-developer/fyleinternship).
